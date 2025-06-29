@@ -1,6 +1,6 @@
 # SimpleChat (PerplexityAI)
 
-![My Screenshot](Images/Image1.PNG)
+![My Screenshot](Images/Image2.PNG)
 
 "SimpleChat" is a sleek and modern web-based chat application designed with a focus on user-friendly interaction and visually appealing dark mode aesthetics.
 
